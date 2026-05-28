@@ -39,7 +39,7 @@ projections, go-to-market strategy, and risk register. Downloadable as PDF.
 | Backend      | FastAPI, Python 3.11, asyncio       |
 | AI           | Groq API — Llama 3.3 70B            |
 | PDF          | ReportLab                           |
-| Deployment   | Vercel (frontend), Railway (backend)|
+| Deployment   | Vercel (frontend), Render (backend)|
 
 ---
 
@@ -65,4 +65,4 @@ npm run dev
 
 ---
 
-Built by Deepasha — BTECH CSE-AI
+Built by Deepasha — BTECH CSE-AI IGDTUW <3
