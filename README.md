@@ -2,7 +2,7 @@
 
 > Four AI advisors. One brutal debate. A complete investor report in minutes.
 
-🔗 **Live Demo:** https://founderforge.vercel.app
+🔗 **Live Demo:** https://founder-forge-two.vercel.app/
 
 ---
 
@@ -65,4 +65,4 @@ npm run dev
 
 ---
 
-Built by [Your Name] — BTECH CSCA
+Built by Deepasha — BTECH CSE-AI
